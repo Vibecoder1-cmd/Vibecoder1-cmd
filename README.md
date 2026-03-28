@@ -18,59 +18,48 @@
 
 </div>
 
-```python
-class Vibecoder:
-    name        = "Vibecoder1-cmd"
-    role        = "B.Tech Student"
-    focus       = ["Web Development", "Python Development", "Data Analysis"]
-    currently   = "Building scalable web apps and data-driven tools"
-    learning    = ["FastAPI", "Advanced ML Pipelines", "System Design"]
-    open_to     = "Collaborations, Open Source, Internships"
-    motto       = "Write clean code. Ship fast. Break nothing."
-```
+A B.Tech student focused on building across the full development spectrum. On the web side, I work with HTML, CSS, JavaScript, and TypeScript to craft clean, functional interfaces. On the backend, Python is my primary language — I build APIs and web services using Flask and FastAPI, and create interactive data applications with Streamlit. I also work extensively with the Python data ecosystem, using NumPy, Pandas, Matplotlib, and Seaborn to explore, process, and visualize data.
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-<div align="center">
-
-| Technology | Badge |
-|:----------:|:-----:|
-| HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-
-</div>
-
-### Backend & Frameworks
-
-<div align="center">
-
-| Technology | Badge |
-|:----------:|:-----:|
-| Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Flask | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| FastAPI | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| Streamlit | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
-
-</div>
-
-### Data Science & Libraries
-
-<div align="center">
-
-| Technology | Badge |
-|:----------:|:-----:|
-| NumPy | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| Pandas | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| Matplotlib | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) |
-| Seaborn | ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white) |
-
-</div>
+<h2 align="center">Tech Stack & Skills</h2>
+ 
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
@@ -104,19 +93,8 @@ class Vibecoder:
 
 </div>
 
----
+--- 
 
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vibecoder1--cmd-0a0f2e?style=for-the-badge&logo=github&logoColor=90caf9&color=0d47a1)](https://github.com/Vibecoder1-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-1565c0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
 
 <div align="center">
 
