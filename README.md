@@ -1,16 +1,12 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:1565c0&height=200&section=header&text=Vibecoder1-cmd&fontSize=55&fontColor=90caf9&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Web%20Developer%20%7C%20Python%20Developer&descAlignY=58&descColor=64b5f6&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:1565c0&height=200&section=header&text=Vibecoder&fontSize=55&fontColor=90caf9&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Web%20Developer%20%7C%20Python%20Developer&descAlignY=58&descColor=64b5f6&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+the+web+one+line+at+a+time;Python+%7C+Flask+%7C+FastAPI+%7C+Streamlit;Data+meets+Design+meets+Development;Turning+ideas+into+scalable+solutions" alt="Typing SVG" />
 
 <br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=Vibecoder1-cmd&color=1565c0&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Vibecoder1-cmd?style=for-the-badge&color=1565c0&labelColor=0a0f2e&label=FOLLOWERS)
 
 </div>
 
