@@ -23,7 +23,7 @@ A B.Tech student focused on building across the full development spectrum. On th
 ---
 
 <h2 align="center">Tech Stack & Skills</h2>
- 
+
 <table align="center">
   <tr>
     <td><b>Languages</b></td>
@@ -59,42 +59,41 @@ A B.Tech student focused on building across the full development spectrum. On th
     </td>
   </tr>
 </table>
- 
 
 ---
 
 ## GitHub Statistics
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img 
-    height="180" 
-    width="495" 
-    src="https://github-readme-stats.vercel.app/api?username=Vibecoder1-cmd&show_icons=true&theme=tokyonight&bg_color=0a0f2e&title_color=42a5f5&text_color=90caf9&icon_color=1e88e5&border_color=1565c0&hide_border=false&count_private=true" 
-    loading="eager"
+
+<div align="center">
+  <img
+    height="180em"
+    width="495"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vibecoder1-cmd&show_icons=true&bg_color=0a0f2e&title_color=90caf9&text_color=64b5f6&icon_color=42a5f5&border_color=1565c0&hide_border=false&count_private=true&include_all_commits=true"
   />
-  <img 
-    height="180" 
-    width="300" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibecoder1-cmd&layout=compact&theme=tokyonight&bg_color=0a0f2e&title_color=42a5f5&text_color=90caf9&border_color=1565c0&hide_border=false&langs_count=8" 
-    loading="eager"
+  <img
+    height="180em"
+    width="330"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vibecoder1-cmd&layout=compact&bg_color=0a0f2e&title_color=90caf9&text_color=64b5f6&border_color=1565c0&hide_border=false&langs_count=8"
   />
 </div>
 
 ---
 
 ## Contribution Streak
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vibecoder1-cmd&theme=transparent&background=0a0f2e&border=1565c0&ring=1e88e5&fire=42a5f5&currStreakNum=90caf9&sideNums=90caf9&currStreakLabel=42a5f5&sideLabels=64b5f6&dates=4fc3f7" />
+  <img src="https://streak-stats.demolab.com?user=Vibecoder1-cmd&background=0a0f2e&border=1565c0&ring=1e88e5&fire=42a5f5&currStreakNum=90caf9&sideNums=90caf9&currStreakLabel=42a5f5&sideLabels=64b5f6&dates=4fc3f7&stroke=1565c0" />
 </div>
 
 ---
 
 ## Activity Graph
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibecoder1-cmd&bg_color=0a0f2e&color=42a5f5&line=1e88e5&point=90caf9&area=true&area_color=0d47a1&border_color=1565c0&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibecoder1-cmd&bg_color=0a0f2e&color=42a5f5&line=1e88e5&point=90caf9&area=true&area_color=0d47a1&border_color=1565c0&hide_border=false" />
 </div>
 
---- 
-
+---
 
 <div align="center">
 
